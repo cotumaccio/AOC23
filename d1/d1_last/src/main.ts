@@ -1,4 +1,4 @@
-import './style.css';
+// import './style.css';
 import data from './input.json';
 
 console.time("Solution");
